@@ -10,6 +10,10 @@ Skills and technologies:
   - NextJS
   - Scratch (I teach kids up to 8 years how to use Scratch, a block-based programming language)
 
+## 📫 How to Reach Me:
+  - LinkedIn: linkedin.com/in/ahmad-elhalabi
+  - Email: ahmdd.el.halabi.4@gmail.com
+
 
 
 Feel free to explore my repositories and connect with me!
